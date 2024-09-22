@@ -12,7 +12,7 @@ def main():
     # Obtain the company name from user
     company_name = input("Please enter your company name: ")
 
-    # If the input is invalid (not a number), handle the error
+    # If the input is invalid (not a number), hsandle the error
     try:
         # Retrieve the number of feet of fiber optic cable to be installed from the user
         cable_feet = int(input("Please enter the number feet of cable do you need: "))
